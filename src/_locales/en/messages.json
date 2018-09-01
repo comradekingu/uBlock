@@ -5,7 +5,7 @@
   },
   "extShortDesc":{
     "message":"Finally, an efficient blocker. Easy on CPU and memory.",
-    "description":"this will be in the chrome web store: must be 132 characters or less"
+    "description":"this will be in the Chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
     "message":"uBlock₀ — Dashboard",
@@ -148,11 +148,11 @@
     "description":"Tooltip for the no-remote-fonts per-site switch"
   },
   "popupTipNoScripting1":{
-    "message":"Click to wholly disable javascript on this site",
+    "message":"Click to wholly disable JavaScript on this site",
     "description":"Tooltip for the no-scripting per-site switch"
   },
   "popupTipNoScripting2":{
-    "message":"Click to no longer wholly disable javascript on this site",
+    "message":"Click to no longer wholly disable JavaScript on this site",
     "description":"Tooltip for the no-scripting per-site switch"
   },
   "popupTipGlobalRules":{
@@ -184,7 +184,7 @@
     "description":""
   },
   "popup3pPassiveRulePrompt":{
-    "message":"3rd-party css/images",
+    "message":"3rd-party CSS/images",
     "description":""
   },
   "popupInlineScriptRulePrompt":{
@@ -308,7 +308,7 @@
     "description": ""
   },
   "settingsNoScriptingPrompt":{
-    "message":"Disable javascript",
+    "message":"Disable JavaScript",
     "description": "The default state for the per-site no-scripting switch"
   },
   "settingsNoCSPReportsPrompt":{
@@ -404,7 +404,7 @@
     "description":"English: Custom"
   },
   "3pImport":{
-    "message":"Import...",
+    "message":"Import…",
     "description":"The label for the checkbox used to import external filter lists"
   },
   "3pExternalListsHint":{
@@ -420,7 +420,7 @@
     "description":"used as a tooltip for the clock icon beside a list"
   },
   "3pUpdating":{
-    "message":"Updating...",
+    "message":"Updating…",
     "description":"used as a tooltip for the spinner icon beside a list"
   },
   "3pNetworkError":{
@@ -476,7 +476,7 @@
     "description": "Will discard manually-edited content and exit manual-edit mode"
   },
   "rulesImport": {
-    "message": "Import from file...",
+    "message": "Import from file…",
     "description": ""
   },
   "rulesExport": {
@@ -612,12 +612,12 @@
     "description":"Message to show when a filter cannot be found in any filter lists"
   },
   "aboutChangelog":{
-    "message":"Change log",
-    "description":"English: Change log"
+    "message":"Changelog",
+    "description":"English: Changelog"
   },
   "aboutWiki":{
     "message":"Wiki",
-    "description":"English: project' wiki on Github"
+    "description":"English: project' wiki on GitHub"
   },
   "aboutSupport":{
     "message":"Support",
@@ -644,12 +644,12 @@
     "description": "English: my-ublock-backup_{{datetime}}.txt"
   },
   "aboutRestoreDataButton" : {
-    "message": "Restore from file...",
-    "description": "English: Restore from file..."
+    "message": "Restore from file…",
+    "description": "English: Restore from file…"
   },
   "aboutResetDataButton" : {
-    "message": "Reset to default settings...",
-    "description": "English: Reset to default settings..."
+    "message": "Reset to default settings…",
+    "description": "English: Reset to default settings…"
   },
   "aboutRestoreDataConfirm" : {
     "message": "All your settings will be overwritten using data backed up on {{time}}, and uBlock₀ will restart.\n\nOverwrite all existing settings using backed up data?",
@@ -733,7 +733,7 @@
   },
   "docblockedProceed": {
     "message": "Disable strict blocking for {{hostname}}",
-    "description": "English: Disable strict blocking for {{hostname}} ..."
+    "description": "English: Disable strict blocking for {{hostname}} …"
   },
   "docblockedDisableTemporary": {
     "message": "Temporarily",
@@ -756,7 +756,7 @@
     "description": "tooltip"
   },
   "cloudNoData": {
-    "message": "...\n...",
+    "message": "…\n…",
     "description": ""
   },
   "cloudDeviceNamePrompt": {
